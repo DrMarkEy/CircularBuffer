@@ -1,0 +1,17 @@
+{
+    "name": "CircularBuffer",
+    "keywords": "CircularBuffer",
+    "description": "A CircularBuffer",
+    "repository":
+    {
+        "type": "git",
+        "url": "git@github.com:DrMarkEy/CircularBuffer.git"
+    },
+    "frameworks": "*",
+    "platforms": "*",
+    "build": {
+        "srcFilter": [
+            "+<CircularBuffer.hpp>"
+        ]
+    }
+}
